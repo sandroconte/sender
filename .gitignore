@@ -139,3 +139,4 @@ cython_debug/
 
 assets
 .idea
+configurations.json
